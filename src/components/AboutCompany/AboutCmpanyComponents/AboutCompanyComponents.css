@@ -1,0 +1,23 @@
+ .nine1 h1 {
+    position: absolute;
+  }
+  
+  .nine1 p {
+    position: absolute
+  }
+
+
+  .second2 {
+    width: 100%;
+    max-width: 20%; 
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); 
+    gap: 20px;
+  }
+  
+  .second2 div {
+    height: 200px; 
+    width: 100%;
+    max-width: 200px;
+    background-color: #ccc; 
+  }

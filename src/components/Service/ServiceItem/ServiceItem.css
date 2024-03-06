@@ -1,0 +1,7 @@
+.img1 .div1 p,
+.img2 .div1 p {
+  position: absolute;
+  color: white;
+  transform: translate(20%, -800%);
+}
+
